@@ -23,6 +23,39 @@ If the application is launched successfully, video LED on RICOH THETA turns on.
 i. Open the basic app for smartphone.
 ii. select "Setting" > "Camera setting" > "Camera version", then get IP Address.
 
+
+4. Receive live streaming from RTSP client application like vlc.
+
+vlc live streaming example
+
+i. Open the vlc.
+ii. select "Media" > "Open Network Stream", then set a network URL like below.
+rtsp://[your RICOH THETA IP Address]:8554/live?resolution=1920x960
+You can set a resolution of camera by the parameter which name of "resolution".
+You can set the "resolution" to "640x320", "1024x512", "1920x960" or "3840x1920". "3840x1920" may not work because of bandwidth.
+iii. If you want to change the resolution, push Stop Playback Button and retry (ii).
+
+### Select App in Settings to set permissions
+
+Using scrcpy or vysor to select the plug-in settings.
+
+![select app](docs/images/select_app_scrcpy.png)
+
+### Enable Camera Persmissions
+
+Move the slider switch for Camera permissions.
+
+![enable camera permissions](docs/images/camera_permissions.png)
+
+### Put camera in client mode wifi
+
+![client mode](docs/images/client_mode.png)
+
+
+### Press and hold mode button to put the Z1 into plug-in mode
+
+![Z1 screen](docs/images/z1_screen.png)
+
 ---
 
 Original readme in Japanese.
