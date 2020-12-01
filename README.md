@@ -56,6 +56,27 @@ Move the slider switch for Camera permissions.
 
 ![Z1 screen](docs/images/z1_screen.png)
 
+Select plug-in by pressing the shutter button.
+
+### Open Network Stream on VLC
+
+![network stream](docs/images/rtsp-vlc-open.png)
+
+### Set Address and URL of THETA
+
+![network URL](docs/images/rtsp-network-address.png)
+
+### View Equirectangular View in VLC
+
+![VLC viewing](docs/images/rtsp-vlc-view.png)
+
+### Adjust resolution to 1920x960 or 3840x1920
+
+![3840 x 1920](docs/images/rtsp-3840x1920.png)
+
+![3840 x 1920 view](docs/images/rtsp-3840x1920-view.png)
+
+
 ---
 
 Original readme in Japanese.
