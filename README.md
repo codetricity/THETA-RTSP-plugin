@@ -1,9 +1,31 @@
 # Overview
-This is Live Streaming Plug-in.
-RTSP server starts on RICOH THETA.
+This is a Live Streaming Plug-in for the RICOH THETA V and Z1.  It starts an RTSP
+server on the THETA.
 
-# Terms of Service
+This software was developed by Science Arts.  The THETA V plug-in is available in the
+[plug-in store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/).
 
+## Usage
+
+You can open and play the RTSP Stream from RTSP client tool like VLC.
+
+1. Set RICOH THETA in Wireless LAN client mode.
+
+Video: https://www.youtube.com/watch?v=tkqyBNOWWIY&t=9s
+Manual:https://theta360.com/en/support/manual/v/content/prepare/prepare_08.html
+
+2. In the basic app for smartphone, select "Settings" > "Camera settings" and set "THETA RTSP Streaming" in "Plug-in", then tap the icon displayed next to "Starting plug-in".
+
+If the application is launched successfully, video LED on RICOH THETA turns on.
+
+3. Find out and remember the IP Address of RICOH THETA.
+
+i. Open the basic app for smartphone.
+ii. select "Setting" > "Camera setting" > "Camera version", then get IP Address.
+
+---
+
+Original readme in Japanese.
 
 # 開発環境
 Android Studio
