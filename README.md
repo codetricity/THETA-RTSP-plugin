@@ -56,7 +56,15 @@ Move the slider switch for Camera permissions.
 
 ![Z1 screen](docs/images/z1_screen.png)
 
-Select plug-in by pressing the shutter button.
+### Select plug-in by pressing the shutter button
+
+![z1 running](docs/images/z1_running.png)
+
+When the plug-in is running, the 
+blue LED on the Z1 body turns aqua.
+The OLED shows a puzzle piece.
+
+The USB cable is to supply power to the camera.
 
 ### Open Network Stream on VLC
 
@@ -76,7 +84,15 @@ Select plug-in by pressing the shutter button.
 
 ![3840 x 1920 view](docs/images/rtsp-3840x1920-view.png)
 
+---
 
+## Supply Power to Camera
+
+With firmware 1.60.1 on the z1, the camera can stream indefinitely. The current draw is between 0.7A and .9A when streaming at 4K.  The battery is charging.
+
+![electrical current](docs/images/electrical_current.png)
+
+I am using an inline electrical current meter to monitor the power consumption.
 ---
 
 Original readme in Japanese.
