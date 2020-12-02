@@ -93,6 +93,14 @@ With firmware 1.60.1 on the z1, the camera can stream indefinitely. The current 
 ![electrical current](docs/images/electrical_current.png)
 
 I am using an inline electrical current meter to monitor the power consumption.
+
+## Possible Issues
+
+I have problems using VLC on Windows.  Linux works fine.
+
+On Ubuntu 20.04 with VLC 3.0.9.2, I have error messages, but the plug-in works fine and I can see the equirectangular view.
+
+
 ---
 
 Original readme in Japanese.
