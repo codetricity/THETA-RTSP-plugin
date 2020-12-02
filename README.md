@@ -3,7 +3,7 @@ This is a Live Streaming Plug-in for the RICOH THETA V and Z1.  It starts an RTS
 server on the THETA.
 
 This software was developed by Science Arts.  The THETA V plug-in is available in the
-[plug-in store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/).
+[plug-in store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/).  I have heard from Science Arts that they are submitting the Z1 to the Plug-in Store.  You do not need to compile the plug-in from source unless you intend to modify the source code.   If you just want to use the plug-in, get the finished plug-in from the store.  It is free. 
 
 ## Usage
 
@@ -93,6 +93,23 @@ With firmware 1.60.1 on the z1, the camera can stream indefinitely. The current 
 ![electrical current](docs/images/electrical_current.png)
 
 I am using an inline electrical current meter to monitor the power consumption.
+
+### 8 hour 4K test - battery at 97%
+
+![charging](docs/images/charging.png)
+
+With firmware 1.60.1, the THETA Z1 heat management is improved.  Camera can stream indefinitely.
+
+## Video Stream Navigation
+
+You can use Go Pro VR Player to navigate around the video stream. 
+
+![navigation](docs/images/navigation.gif)
+
+Configuration.
+
+![go pro config](docs/images/gopro_config.png)
+
 
 ## Possible Issues
 
