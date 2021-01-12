@@ -3,7 +3,7 @@ This is a Live Streaming Plug-in for the RICOH THETA V and Z1.  It starts an RTS
 server on the THETA.
 
 This software was developed by Science Arts.  The THETA V plug-in is available in the
-[plug-in store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/).  I have heard from Science Arts that they are submitting the Z1 to the Plug-in Store.  You do not need to compile the plug-in from source unless you intend to modify the source code.   If you just want to use the plug-in, get the finished plug-in from the store.  It is free. 
+[plug-in store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/).  Science Arts updated the plug-in in early 2021 to support Z1. Get the finished app from the Plug-in Store.  You do not need to compile the plug-in from source unless you intend to modify the source code.   If you just want to use the plug-in, get the finished plug-in from the store.  It is free. 
 
 ## Usage
 
